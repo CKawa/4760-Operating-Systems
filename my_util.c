@@ -1,0 +1,13 @@
+////////////////////////////////////////////////////////////////////////
+// Charlotte Kawa
+// cekxb3
+// my_util.c
+// Utility class for child processes, makeargv and error functions
+////////////////////////////////////////////////////////////////////////
+
+
+//function for process creation
+//function for child identification
+//makeargv function
+//error message function
+//wait function???
